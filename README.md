@@ -1,2 +1,2 @@
 # VORON313
-a backup config for my Voron printer
+a backup configs for my Voron printer
